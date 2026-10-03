@@ -56,7 +56,6 @@ My goal is to understand how things work, write clean code, and build useful pro
 * **GitHub:** [My GitHub Profile](https://github.com/ihasan2008)
 * **YouTube:** [My YouTube Channel](https://www.youtube.com/@HaSaNPROGRAMMER)
 * **Facebook:** [My Facebook Profile](https://www.facebook.com/ihasan2008)
-* **Email:** [My Email](ihasan2008with@gmail.com)
 
 ---
 
