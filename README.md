@@ -60,10 +60,6 @@ My goal is to understand how things work, write clean code, and build useful pro
 
 ---
 
-## 💡 My Motto
-
 > Learn. Practice. Build. Improve. Repeat.
-
-I'm at the beginning of my journey, and I'm committed to learning consistently, improving my skills, and building projects one step at a time.
 
 **Thanks for visiting my profile! 🚀**
